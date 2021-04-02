@@ -1,0 +1,9 @@
+npx create-react-app online_banking_front
+
+npm install redux react-redux redux-thunk react-router-dom redux-devtools-extension redux-logger axios
+
+npm install @material-ui/core
+
+npm install @material-ui/icons
+
+npm install react-bootstrap bootstrap
